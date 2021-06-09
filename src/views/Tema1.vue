@@ -34,8 +34,8 @@
           .py-4.py-md-5(titulo="Medios propios" :icono="require('@/assets/ilustraciones/img2.svg')")
 
             .h5 Medios propios
-            p Se podrían definir como los medios más importantes para tener presencia en Internet, donde una marca o una empresa puede generar su propia voz, creando un espacio propio de información y diseñando experiencias únicas para sus usuarios. 
-            p.mt-3 Estos medios están constituidos por contenidos, canales o espacios que una marca posee para ofrecer un producto o servicio en la web. Al hablar de medios propios, es preciso mencionar páginas web, aplicaciones móviles, micrositios creados para llegar a públicos muy segmentados, blogs o SEO. Todos ellos hacen referencia a los medios para captar usuarios orgánicamente, a través de la producción de contenidos que permitan la interacción o la publicación de elementos de opinión, además de las estrategias para posicionar la empresa o marca que desea tener un espacio en la web (Adventures Digital Agency, 2018).
+            p Se podrían definir como los medios más importantes para tener presencia en Internet, donde una marca o una empresa puede generar su propia voz, creando un espacio propio de información y diseñando experiencias únicas para sus usuarios. Estos medios están constituidos por contenidos, canales o espacios que una marca posee para ofrecer un producto o servicio en la web. 
+            p.mt-3 Al hablar de medios propios, es preciso mencionar páginas web, aplicaciones móviles, micrositios creados para llegar a públicos muy segmentados, blogs o SEO. Todos ellos hacen referencia a los medios para captar usuarios orgánicamente, a través de la producción de contenidos que permitan la interacción o la publicación de elementos de opinión, además de las estrategias para posicionar la empresa o marca que desea tener un espacio en la web (Adventures Digital Agency, 2018).
 
 
             img.img-a.img-t.mt-5(src='@/assets/ilustraciones/img2_2.svg', alt='')
@@ -48,9 +48,9 @@
 
 
             img.img-a.img-t.mt-5(src='@/assets/ilustraciones/img3_3.svg', alt='')
+            p.mt-4.text-center Nota. Adaptada de Adventures Digital Agency (2018). #[i Ante todo, definamos términos: ¿Qué es el entorno digital?]
 
-
-          .py-4.py-md-5(titulo="Estructura del recurso" :icono="require('@/assets/ilustraciones/img4.svg')")
+          .py-4.py-md-5(titulo="Medios ganados" :icono="require('@/assets/ilustraciones/img4.svg')")
             .h5 Medios ganados
             p Mediante la integración de los medios propios y los medios pagados es como se obtienen los medios ganados, que se refieren al voz a voz de todas las conversaciones e interacciones que se generan alrededor de la empresa o marca en cuestión que se desenvuelve en la web. En estos medios es donde se evidencia la confianza y la presencia generada, a partir de la información compartida y las experiencias de los usuarios que participan, dando importancia a la generación de contenido por parte del usuario.
             p.mt-3 En este punto se destacan las Mentions (menciones de la marca por parte de los usuarios), Shares (contenido de marca que se comparte), Repost (publicación de contenidos que ha hecho la marca), Reviews (crítica o reseña realizada a la marca). (Adventures Digital Agency, 2018).
@@ -62,7 +62,7 @@
 
     .titulo-segundo#t_1_2.mt-5
       .h4 1.2  Plataformas digitales   
-    p.mt-5 De acuerdo con el portal web RockContent (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, es como se definen los objetivos específicos de cada. una de ellas, como se puede observar a continuación.
+    p.mt-5 De acuerdo con el portal web RockContent (2019), las plataformas digitales son aquellos espacios en la web que permiten la ejecución de diversos programas o aplicaciones con la intención de suplir necesidades de los usuarios y facilitar el desarrollo de tareas. Teniendo en cuenta esto, es como se definen los objetivos específicos de cada una de ellas, como se puede observar a continuación.
 
     .p Podemos distinguir cuatro tipos de plataformas digitales:
 

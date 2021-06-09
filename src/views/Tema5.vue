@@ -16,6 +16,8 @@
 
     .p Dentro del social media, se evidencian distintos medios para generar interacción, enmarcados en la comunicación, la colaboración, la multimedia y el entretenimiento (Xie, 2019).
 
+    .h6.mt-5.text-center Medios sociales
+
     TabsC.color-acento-contenido.mt-5
       .py-3.py-md-4(titulo="Comunicación")
         .row.justify-content-center.align-items-center
@@ -181,6 +183,8 @@
   
 
     .p-r.mt-5 #[b Nota.] Adaptada de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+    
+    .hr.my-5
 
     .titulo-segundo#t_5_1.mt-5
       .h4 5.1 Redes sociales 
@@ -192,12 +196,14 @@
 
         .p Las redes sociales han evidenciado una gran necesidad del ser humano de mostrar una parte de la vida real a través de plataformas digitales, las cuales tienen una connotación positiva o negativa, de acuerdo con el contexto en que se utilizan detrás de la pantalla de un computador o de un dispositivo móvil; pero, en cuanto a las marcas, el surgimiento y posicionamiento de las redes sociales ha significado una increíble oportunidad para llevar a cabo procesos de promoción y venta de productos o servicios, puesto que es aquí donde se encuentra la gran mayoría de la población del mundo, por no decir que toda. Lo importante es definir qué funciona, qué se desea lograr y cómo se van a generar los resultados deseados, además de poner especial atención al sentir de los consumidores, que encuentran las redes sociales como los medios perfectos para expresar su inconformidad o demostrar empatía con la marca.
 
-        .p En la medida en que existen distintas maneras de comunicación a través del planeta, existen diferentes tipos de redes sociales, que se pueden clasificar en horizontales y verticales (Xie, 2019).
+        .p En la medida en que existen distintas maneras de comunicación a través del planeta, existen diferentes tipos de redes sociales, que se pueden clasificar en #[b horizontales y verticales] (Xie, 2019).
     .row.justify-content-center.align-items-center.mt-5
       .col-10    
         img.img-a.img-t(src='@/assets/ilustraciones/img40.svg', alt='')
         .p-r.mt-3 #[b Nota.] Adaptada de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. 
         .p Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, Youtube, Tik Tok, Linkedin, Pinterest, entre otras.
+    
+    .hr.my-5
 
     .titulo-segundo#t_5_2.mt-5
       .h4 5.2  Contenidos para redes sociales
@@ -206,85 +212,87 @@
     .tarjeta.tarjeta--azul.p-4.mt-5
       SlyderA
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img41.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Imágenes 
             p Este contenido sitúa en un contexto preciso la información que se desea comunicar, además de definir una identidad y estética acorde con la marca. Puede contener una fotografía y un texto.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img42.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Videos 
             p Este contenido es aún más apetecido, al conectar la imagen en movimiento con el sonido y la creatividad, para entregar un mensaje claro, teniendo en cuenta determinado objetivo.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img43.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Gráficos 
             p Contenido informativo para entregar datos precisos en torno a determinado tema.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img44.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 GIFs 
             p Formato de video de mínima duración para complementar un mensaje.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img45.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Memes 
             p Imágenes divertidas con gran facilidad para viralizarse haciendo referencia a un sinfín de temas.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img46.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 #[i Webinars] 
             p Espacios de transmisión en vivo, diseñados para compartir información e impartir educación respecto a un tema.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img47.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Capturas 
             p Imágenes compartidas de publicaciones previas realizadas por otros usuarios. También se define así a la fotografía de una imagen en una computadora o dispositivo móvil.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img48.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 Infografías 
             p Estructuras informativas que hacen uso de imágenes y texto breve para dar a conocer un tema determinado.
 
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img49.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5  Dibujos 
             p Imágenes ilustrativas de determinado tema.
         .row.justify-content-center.align-items-center
-          .col-md-6.pb-2
+          .col-md-4.pb-2
             img.img-a.img-t(src='@/assets/ilustraciones/img50.svg', alt='')
 
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             .h5 #[i E-books] 
             p Libros digitales que pueden ser de acceso abierto o pago.    
 
     p.mt-5 Luego de definir los tipos de contenidos que serán usados en las redes sociales elegidas, se procede a generar una parrilla de programación, la cual permite ubicar los días y horarios en que se realizarán las publicaciones. Para ello, existen una serie de herramientas, dentro y fuera de las redes sociales, que permiten programar los contenidos con el fin de optimizar tiempo.    
+    
+    .hr.my-5
 
     .titulo-segundo#t_5_3.mt-5
       .h4 5.3  Analítica de redes sociales 
@@ -307,13 +315,17 @@
         img.img-a.img-t(src='@/assets/ilustraciones/img52.svg', alt='')   
 
       .col-7
-        p De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y, aunque no hay una normativa específica para social media, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al Artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
+        p De acuerdo con el portal web En TIC Confío (2015), en Colombia, el Ministerio de las TIC es el ente encargado de regular la actividad digital, y aunque no hay una normativa específica para social media, sí existen leyes que protegen la información y los datos personales, así como las tecnologías de la información y la comunicación en general. Es de resaltar que, en cuanto a las redes sociales, se puede acudir al Artículo 15 de la Constitución Nacional, que hace referencia al derecho a la intimidad personal y familiar y al buen nombre. Además, el Gobierno ha trabajado por la implementación de mecanismos jurídicos como la Ley 1273 de 2009, que modificó el Código Penal y donde se incluyen delitos digitales relacionados con la comprobación del acceso ilegal al perfil de otra persona o la violación de datos personales. Igualmente, la difamación por cualquier red social o la creación de sitios web fraudulentos, al sustentarse con las debidas pruebas, pueden ser castigados.
+    
+    .hr.my-5
         
     .titulo-segundo#t_5_5.mt-5
       .h4 5.5  Derechos de autor de contenidos digitales 
     p.mt-5 La eclosión de la revolución en el ámbito de las tecnologías de la información y las comunicaciones ha generado, a su vez, una revolución digital con innumerables ventajas. Sin embargo, el acceso masivo a la información y a contenidos digitales plantea serios problemas con respecto a los derechos de la propiedad intelectual, debido al acceso incontrolado y, en cierto sentido, ilimitado, creando incluso una sensación de no prohibición en la red. En este escenario, se hacen necesarias acciones jurídicas para proteger el derecho intelectual y, por esto, es importante revisar algunos conceptos.
     img.mt-5.img-a.img-t(src='@/assets/ilustraciones/img53.svg', alt='')  
     p.mt-5 El concepto de propiedad intelectual (PI) “se refiere a las creaciones del intelecto: desde las obras de arte hasta las invenciones, los programas informáticos, las marcas y otros signos comerciales” (OMPI, 2020). De esta manera, se podría decir que la propiedad intelectual significa talento propio. Y allí entra en juego el derecho de autor, que serían las facultades morales y de explotación que deberían ser reconocidas a una persona por su obra original. Los contenidos como fotos, gráficos, videos, diseños son objeto de derechos de propiedad intelectual y se extienden a los entornos digitales donde se puede expresar el intelecto humano con sus creaciones.       
+    
+    .hr.my-5
 
     .titulo-segundo#t_5_6.mt-5
       .h4 5.6  Normatividad colombiana 
@@ -323,23 +335,26 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Ley 23 de 1982")
             p Ley de derechos de autor.  Para más información, explore el siguiente enlace: 
-              <a style="color: #2196F3;" href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S" target="_blank">https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S</a> 
+              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S
 
           div(titulo="Decisión Andina 351 de 1993")
             p Cuya finalidad es reconocer una adecuada y efectiva protección a los autores y demás titulares de derechos, sobre las obras del ingenio, en el campo literario, artístico o científico, cualquiera que sea el género o forma de expresión y sin importar el mérito literario o artístico ni su destino. Para más información, explore el siguiente enlace: 
-              <a style="color: #2196F3;" href="https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf" target="_blank">https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf</a> 
+              a.link(:href="obtenerLink('/downloads/Decision_ Andina_351_de_1993.pdf')" target="_blank" type="application/pdf")
+                span https://www.wipo.int/edocs/lexdocs/laws/es/can/can010es.pdf
 
           div(titulo="Ley 241 del 2011")
             p Por la cual se regula la responsabilidad por las infracciones de derecho de autor y derechos conexos en Internet. Para más información explore el siguiente enlace: 
-              <a style="color: #2196F3;" href="http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/" target="_blank">http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/</a> 
+              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/ 
 
           div(titulo="Ley 1834 del 2017")
             p Por la cual se fomenta la economía creativa (ley naranja). Para más información, explore el siguiente enlace: 
-              <a style="color: #2196F3;" href="http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647" target="_blank">http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647</a> 
+              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647            
+
 
           div(titulo="Ley 1915 del 2018")
             p Por la cual se modifica la ley 23 del 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos. Para más información, explore el siguiente enlace: 
-              <a style="color: #2196F3;" href="http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf" target="_blank">http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf</a>                                     
+              a.link(:href="obtenerLink('/downloads/LEY_1915_DEL_12_DE_JULIO_DE_2018.pdf')" target="_blank" type="application/pdf")
+                span http://es.presidencia.gov.co/normativa/normativa/LEY%201915%20DEL%2012%20DE%20JULIO%20DE%202018.pdf                                   
 </template>
 
 <script>

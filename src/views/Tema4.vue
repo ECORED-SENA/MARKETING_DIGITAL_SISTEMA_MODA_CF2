@@ -17,80 +17,100 @@
           .col-auto
             img.img-t.img-a(src='@/assets/ilustraciones/img31.svg', alt='')           
           .col
-            p Investigación
+            .h6 Investigación
             .hr.mr-2     
         ul.lista-ul--color.mt-4
           li 
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Público</span>
+            i.fas.fa-atom 
+            | Público
           li 
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Contenido y diseño</span>
+            i.fas.fa-atom 
+            | Contenido y diseño
           li 
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Redes sociales</span>
+            i.fas.fa-atom 
+            | Redes sociales
           li 
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Comunicación</span>
+            i.fas.fa-atom 
+            | Comunicación
           li 
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Competencia</span>
+            i.fas.fa-atom 
+            | Competencia
 
       .col-12.col-md-3
         .row.justify-content-center.align-items-center.mt-3
           .col-auto
             img.img-t.img-a(src='@/assets/ilustraciones/img32.svg', alt='')           
           .col
-            p Objetivos
+            .h6 Objetivos
             .hr.mr-2        
         ul.lista-ul--color.mt-4
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Objetivos cuantitativos</span>  
+            i.fas.fa-atom 
+            | Objetivos cuantitativos  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Objetivos cualitativos</span>  
+            i.fas.fa-atom 
+            | Objetivos cualitativos  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Definición de KPI</span>  
+            i.fas.fa-atom 
+            | Definición de KPI  
 
       .col-12.col-md-3
         .row.justify-content-center.align-items-center.mt-3
           .col-auto
             img.img-t.img-a(src='@/assets/ilustraciones/img33.svg', alt='')           
           .col
-            p Estrategias
+            .h6 Estrategias
             .hr.mr-2        
         ul.lista-ul--color.mt-4
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Segmentación</span> 
+            i.fas.fa-atom 
+            | Segmentación 
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Posicionamiento</span>  
+            i.fas.fa-atom 
+            | Posicionamiento  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Definición de estrategias</span>  
+            i.fas.fa-atom 
+            | Definición de estrategias  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Ejecución de tácticas</span>  
+            i.fas.fa-atom 
+            | Ejecución de tácticas  
 
       .col-12.col-md-3
         .row.justify-content-center.align-items-center.mt-3
           .col-auto
             img.img-t.img-a(src='@/assets/ilustraciones/img31.svg', alt='')           
           .col
-            p Análisis
+            .h6 Análisis
             .hr.mr-2        
         ul.lista-ul--color.mt-4
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Monitorización</span> 
+            i.fas.fa-atom 
+            | Monitorización 
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Medición de KPI</span>  
+            i.fas.fa-atom 
+            | Medición de KPI  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Análisis de los resultados</span>  
+            i.fas.fa-atom 
+            | Análisis de los resultados  
           li       
-            i.fas.fa-atom <span style="color:#12263F; font-weight: bold; font-size: 18px "> Elaboración de informes</span>  
+            i.fas.fa-atom 
+            | Elaboración de informes  
 
     .p-r.mt-3 #[b Nota.] Adaptada de Giu, W. (2018). Qué es una Estrategia Digital.
+    
+    .hr.my-5
 
     .titulo-segundo#t_4_1.mt-5
       .h4 4.1 Tipos de estrategias
     p.mt-5 Hay una amplia variedad de opciones que las empresas pueden adoptar como estrategia digital para el logro de sus objetivos propuestos, todo esto teniendo en cuenta las herramientas con las que cuenta, el público al cual se dirige y el entorno en el que se desenvuelve.
 
-    .p Según Xie (2019), algunas estrategias destacadas y sus objetivos son los siguientes: 
+    .p Según Xie (2019), algunas estrategias destacadas y sus objetivos se presentan en el siguiente video: 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+    
+    .hr.my-5
 
     .titulo-segundo#t_4_2.mt-5
       .h4 4.2 Plan de marketing digital  

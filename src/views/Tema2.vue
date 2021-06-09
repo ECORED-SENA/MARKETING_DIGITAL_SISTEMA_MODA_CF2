@@ -15,15 +15,21 @@
     p A lo largo de la historia, el mercadeo se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el mercadeo como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. De esta manera, tienen lugar importantes sucesos, como las guerras mundiales, luego de los cuales se genera un increíble desarrollo de los medios publicitarios, seguido de la creación del computador y la adaptación de nuevos sistemas de marketing, de acuerdo con los nuevos tiempos y las necesidades que surgen con estos (SENA, 1989).
 
     .p A partir del gran avance que ha tenido la tecnología y el importante impacto generado, surge el marketing digital como uno de los tipos de marketing, y comienza a aplicarse desde los años 90, con la gran diferencia de desarrollarse en el entorno digital, utilizando todo tipo de herramientas y plataformas que este provee. Según Cibrián (2018), el gran plus que posee este es la capacidad de medir todo lo que sea necesario, además de generar mayor trascendencia y alcance. Aquí es donde se determina el gran poder que posee la información, sobre todo en un mercado tan competitivo como el que se vive en la actualidad.
+    
+    .hr.my-5
 
     .titulo-segundo#t_2_1.mt-5
       .h4 2.1 Breve historia del marketing digital 
 
     p.mt-5 El marketing digital ha tenido una gran evolución a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años. A continuación, se presenta un breve recorrido por su historia, desde la perspectiva de Xie (2019). 
+    .h6.mt-5 Historia del marketing
     .row.justify-content-center.align-items-center
       .col-10
         LineaTiempoB.color-secundario.mt-5(:datos="datosLineaTiempoB")
-
+    p.mt-4.text-center Nota. Adaptada de Xie (2019). #[i Marketing digital: Navegando en aguas digitales, sumérgete conmigo.] 
+    
+    .hr.my-5
+    
     .titulo-segundo#t_2_2.mt-5
       .h4 2.2 Las 4C del marketing digital 
     p.mt-5 También conocidas como el marketing mix, donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: Consumidor, Costo, Conveniencia y Comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del mercadeo tradicional de 4P (Producto, Precio, Plaza y Promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
@@ -130,13 +136,13 @@ export default {
       {
         titulo: '1950 – 1972 El marketing florece',
         texto:
-          'En este periodo, se evidencia que los ingresos de la publicidad televisiva superan a los medios impresos o radiales, lo que permite un crecimiento de la inversión en el medio audiovisual y emerge el telemarketing.En 1970, se pronuncia por primera vez la palabra Internet; a su vez, se crea el primer programa para enviar un correo electrónico y se evidencia una caída en los medios impresos. Del mismo modo, se funda Microsoft y se crean los emoticones.',
+          'En este periodo, se evidencia que los ingresos de la publicidad televisiva superan a los medios impresos o radiales, lo que permite un crecimiento de la inversión en el medio audiovisual y emerge el telemarketing.<br>En 1970, se pronuncia por primera vez la palabra Internet; a su vez, se crea el primer programa para enviar un correo electrónico y se evidencia una caída en los medios impresos. Del mismo modo, se funda Microsoft y se crean los emoticones.',
         icono: require('@/assets/ilustraciones/img12.svg'),
       },
       {
         titulo: '1973 – 1994 Emerge la era digital',
         texto:
-          'Con la llegada de la radio y su progresiva difusión en los hogares, se da origen a este importante medio. Igualmente, surge la publicidad televisiva y el teléfono empieza a tener gran presencia en las familias de la época.',
+          'Aparecen las empresas que conocemos hasta el día de hoy. Motorola genera la primera llamada por teléfono móvil, IBM lanza su primer ordenador personal y Apple presenta su Macintosh en un comercial del Superbowl. <br>En este tiempo, se producen importantes avances en la tecnología 2G y se menciona por primera vez el marketing digital, dado que se crea la primera página web y se presenta de forma pública la World Wide Web (www); además, se da a conocer el primer buscador web y se evidencia una combinación de publicidad televisiva en los medios impresos.',
         icono: require('@/assets/ilustraciones/img13.svg'),
       },
       {
@@ -146,7 +152,7 @@ export default {
         icono: require('@/assets/ilustraciones/img14.svg'),
       },
       {
-        titulo: '2003 – Actualidad La era del marketing digital',
+        titulo: '2003 – Actualidad. La era del marketing digital',
         texto:
           'En el año 2003, llegan a reinar las redes sociales en todo su esplendor. Algunas mantienen su fuerza y otras van decayendo. Igualmente, se actualizan los algoritmos y se entiende que esta es la era para mantener al mundo hiperconectado, consumiendo contenidos y al mismo tiempo creándolos.',
         icono: require('@/assets/ilustraciones/img15.svg'),

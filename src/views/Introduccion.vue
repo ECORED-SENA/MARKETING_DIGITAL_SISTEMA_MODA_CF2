@@ -40,8 +40,11 @@
             .col-4
               img.img-t.img-a(src='@/assets/ilustraciones/img26.svg', alt='')
               .p.text-center #[b Actitudes]
-
+          p.mt-5 Algunos temas que se verán son:
           ul.lista-ul.mt-3
+            li 
+              i.fas.fa-angle-right 
+              |entrono           
             li 
               i.fas.fa-angle-right 
               |digital 
@@ -89,9 +92,7 @@
               img.img-t.img-a(src='@/assets/ilustraciones/img30.svg', alt='')
 
             .col 
-              p Que de una forma intencionada constituyen una comunidad de aprendizaje y práctica. 
-
-              .p Es decir, no se está solo, se tiene un conjunto de personas de diferentes lugares que se unen a las reflexiones e inquietudes. Por eso, es preciso recordar la importancia de participar en los foros y utilizar otras herramientas del curso para comunicarse
+              p Que de una forma intencionada constituyen una comunidad de aprendizaje y práctica. Es decir, no se está solo, se tiene un conjunto de personas de diferentes lugares que se unen a las reflexiones e inquietudes. Por eso, es preciso recordar la importancia de participar en los foros y utilizar otras herramientas del curso para comunicarse.
 
               .p Finalmente, recuerde estos aspectos para iniciar y culminar con éxito el curso.
 
