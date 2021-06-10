@@ -39,7 +39,7 @@
 
 
             img.img-a.img-t.mt-5(src='@/assets/ilustraciones/img2_2.svg', alt='')
-
+            p.mt-4.text-center Nota. Adaptada de Adventures Digital Agency (2018). #[i Ante todo, definamos términos: ¿Qué es el entorno digital?]
           .py-4.py-md-5(titulo="Medios pagados" :icono="require('@/assets/ilustraciones/img3.svg')")
             .h5 Medios pagados
             p Como su nombre lo indica, son medios que necesitan ser pagados para que una empresa o marca pueda definir mayor presencia en Internet, lo cual permite segmentar adecuadamente el público al cual se desea llegar, siendo un mecanismo muy efectivo y eficaz para lograr los objetivos que se haya propuesto dentro del mundo digital. En otras palabras se define como parte de las estrategias de publicidad pagada, como display, videos y audios (banners publicitarios), Search (posicionamiento de una página web en el motor de búsqueda), Retargeting (seguimiento a usuarios que navegan en la web para generar una conversación), Influencers (persona que cuenta con una audiencia importante de seguidores para promocionar un producto o servicio) y Patrocinios (pagos de contenidos promocionales). (Adventures Digital Agency, 2018)
@@ -57,7 +57,7 @@
 
 
             img.img-a.img-t.mt-5(src='@/assets/ilustraciones/img4_4.svg', alt='')
-            .p-r.mt-5 #[b Nota.] Adaptado de Adventures Digital Agency (2018).  
+            p.mt-4.text-center Nota. Adaptada de Adventures Digital Agency (2018). #[i Ante todo, definamos términos: ¿Qué es el entorno digital?]
 
 
     .titulo-segundo#t_1_2.mt-5

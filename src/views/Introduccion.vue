@@ -44,10 +44,7 @@
           ul.lista-ul.mt-3
             li 
               i.fas.fa-angle-right 
-              |entrono           
-            li 
-              i.fas.fa-angle-right 
-              |digital 
+              |Entrono digital    
             li 
               i.fas.fa-angle-right 
               |Fundamentos del marketing digital 
