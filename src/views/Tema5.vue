@@ -306,6 +306,7 @@
       .col-5
         img.img-a.img-t(src='@/assets/ilustraciones/img51.svg', alt='')        
 
+    .hr.my-5
 
     .titulo-segundo#t_5_4.mt-5
       .h4 5.4  Marco legal de las redes sociales
