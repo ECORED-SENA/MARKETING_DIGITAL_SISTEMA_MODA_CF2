@@ -107,7 +107,7 @@
     .p Según Xie (2019), algunas estrategias destacadas y sus objetivos se presentan en el siguiente video: 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/U2juCftBrTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
     
     .hr.my-5
