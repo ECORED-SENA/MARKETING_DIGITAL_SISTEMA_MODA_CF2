@@ -1,6 +1,6 @@
 # **Marketing digital**
 
-## **Enlace GitHubPages**
+## **https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/**
 
 [https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/](https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/)
 
