@@ -1,8 +1,8 @@
 # **sena-base-2021 v4.0.0**
 
-## **Enlace GitHubPages**
+## **https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/](https://ecored-sena.github.io/MARKETING_DIGITAL_SISTEMA_MODA_CF2/)
 
 #
 
