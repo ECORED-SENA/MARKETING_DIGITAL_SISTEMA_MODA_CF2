@@ -119,61 +119,49 @@
     .p Según Xie (2019), se definen los siguientes pasos para un plan de marketing digital:
     .row.justify-content-center.align-items-center.mt-5
       .col-10
-        PasosA.color-acento-contenido(tipo="n" :datos="datosPasosA")
+        PasosA.color-acento-contenido(tipo="n")
+          div
+            h3 Análisis de la marca 
+            p Para marcar la ruta a seguir, como primera medida, se debe conocer la marca en todos sus aspectos. Partiendo de esto, se desarrolla una matriz DOFA (Debilidades, Oportunidades, Fortalezas y Amenazas).
+          div
+            h3 Conocimiento de los objetivos de la empresa
+            p Definir y entender los objetivos más grandes a los que apunta la empresa, teniendo en cuenta los que se pueden desarrollar a corto y largo plazo.
+
+          div
+            h3 Análisis del mercado
+            p Se debe analizar completamente el mercado que se va a abordar, teniendo en cuenta factores geográficos, demográficos, socioeconómicos y psicográficos. 
+
+          div
+            h3 Segmentar el cliente objetivo
+            p Conocer y definir el público al cual serán dirigidas todas las estrategias, reconociendo datos básicos, pero sobre todo identificando gustos, necesidades o aspiraciones. 
+
+          div
+            h3 Análisis del mercado digital
+            p Conocer la competencia, a través de una serie de técnicas de mercadotecnia, permitirá situarnos en un contexto aterrizado.
+
+          div
+            h3 Establecer objetivos del marketing
+            p Definir los objetivos específicos que se espera lograr de determinada campaña. 
+
+          div
+            h3 Definir actividades, KPI y presupuestos
+            p Definir las estrategias a utilizar para lograr los resultados propuestos, estableciendo los costos que estas conllevan. 
+
+          div
+            h3 Inicio de actividades definidas
+            p Poner en marcha las actividades propuestas en el plan. 
+
+          div
+            h3 Seguimiento del plan de marketing
+            p Constantemente, se deben revisar las actividades desarrolladas para que concuerden con los objetivos propuestos, identificar si se alejan o siguen el camino propuesto, con el fin de ajustar o mejorar.                                                                         
+
         .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
 </template>
 
 <script>
 export default {
   name: 'Tema4',
-  data: () => ({
-    datosPasosA: [
-      {
-        titulo: 'Análisis de la marca',
-        texto:
-          'Para marcar la ruta a seguir, como primera medida, se debe conocer la marca en todos sus aspectos. Partiendo de esto, se desarrolla una matriz DOFA (Debilidades, Oportunidades, Fortalezas y Amenazas).',
-      },
-      {
-        titulo: 'Conocimiento de los objetivos de la empresa',
-        texto:
-          'Definir y entender los objetivos más grandes a los que apunta la empresa, teniendo en cuenta los que se pueden desarrollar a corto y largo plazo.',
-      },
-      {
-        titulo: 'Análisis del mercado',
-        texto:
-          'Se debe analizar completamente el mercado que se va a abordar, teniendo en cuenta factores geográficos, demográficos, socioeconómicos y psicográficos.',
-      },
-      {
-        titulo: 'Segmentar el cliente objetivo',
-        texto:
-          'Conocer y definir el público al cual serán dirigidas todas las estrategias, reconociendo datos básicos, pero sobre todo identificando gustos, necesidades o aspiraciones.',
-      },
-      {
-        titulo: 'Análisis del mercado digital',
-        texto:
-          'Conocer la competencia, a través de una serie de técnicas de mercadotecnia, permitirá situarnos en un contexto aterrizado.',
-      },
-      {
-        titulo: 'Establecer objetivos del marketing',
-        texto:
-          'Definir los objetivos específicos que se espera lograr de determinada campaña.',
-      },
-      {
-        titulo: 'Definir actividades, KPI y presupuestos',
-        texto:
-          'Definir las estrategias a utilizar para lograr los resultados propuestos, estableciendo los costos que estas conllevan.',
-      },
-      {
-        titulo: 'Inicio de actividades definidas',
-        texto: 'Poner en marcha las actividades propuestas en el plan.',
-      },
-      {
-        titulo: 'Seguimiento del plan de marketing',
-        texto:
-          'Constantemente, se deben revisar las actividades desarrolladas para que concuerden con los objetivos propuestos, identificar si se alejan o siguen el camino propuesto, con el fin de ajustar o mejorar.',
-      },
-    ],
-  }),
+  data: () => ({}),
 }
 </script>
 
