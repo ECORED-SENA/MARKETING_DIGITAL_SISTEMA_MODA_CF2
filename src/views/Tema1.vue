@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      .h3 Conoce el entorno digital
+      .h3.text-in Conoce el entorno digital
     p A lo largo del tiempo, la tecnología ha ido permeando cada vez más nuestra cotidianidad, desde el invento del computador, pasando por el beeper o el primer teléfono celular. Estas grandes evoluciones han impactado la manera en que se ve el mundo, lo que a su vez ha abierto camino a nuevas opciones de desarrollar los procesos sociales, culturales o económicos, a través del ciberespacio. Entonces, ¿qué es un entorno digital?
   
     .row.justify-content-center.align-items-center
@@ -17,7 +17,7 @@
               img.img-t.img-a(src='@/assets/ilustraciones/img1.svg', alt='') 
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Entendiendo que un entorno digital se define como el conjunto de herramientas, canales y plataformas en Internet, en ese sentido, “Internet representa en la era electrónica lo mismo que supuso la imprenta en la era alfabética, una atmósfera mediática que interrelaciona al planeta en su nueva dimensión de aldea intercomunicada” (Pino, 2009, p.     4 ). 
+                p Entendiendo que un entorno digital se define como el conjunto de herramientas, canales y plataformas en Internet, en ese sentido, “Internet representa en la era electrónica lo mismo que supuso la imprenta en la era alfabética, una atmósfera mediática que interrelaciona al planeta en su nueva dimensión de aldea intercomunicada” (Pino, 2009, p.     4). 
     p.mt-5 Sin duda, este hecho ha marcado un antes y un después en la vida de cada ser humano, siendo la puerta de entrada al conocimiento de un mundo increíble, con posibilidad de conectarse con cualquier persona del planeta, estudiar e investigar acerca de determinado tema, comprar lo que se desea de tiendas globales, trabajar desde cualquier rincón o simplemente dejarse llevar por el ocio. Es así como conocer el entorno digital implica estar inmerso en una era que constantemente se actualiza, al configurar un universo donde las tecnologías de la información y la comunicación (TIC) están al alcance de la mano para conectarse directamente con intereses y necesidades.
 
     .hr.my-5

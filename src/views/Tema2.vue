@@ -6,33 +6,33 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      .h3 Fundamentos de marketing digital
-    p Para hablar de marketing digital, primero es importante hacer una breve exploración del marketing como tal, el cual, según la American Marketing Association (AMA), "es una función de la organización y un conjunto de procesos para crear, comunicar y entregar valor a los clientes, y para manejar las relaciones con estos últimos, de manera que beneficien a toda la organización [...]” (American Marketing Association, s.f.  como se citó en Iván Thompson, 2006). De esta forma, se entiende que el marketing da respuesta a muchas necesidades de los consumidores y, a partir de esto, permite generar nuevos mercados, estableciendo ofertas de valor a través de la comunicación, el servicio al cliente y demás conexiones que surgen según el comportamiento del público, y teniendo en cuenta que el enfoque máximo de este son las personas.
+      .h3.text-in Fundamentos de #[i marketing] digital
+    p Para hablar de #[i marketing] digital, primero es importante hacer una breve exploración del #[i marketing] como tal, el cual, según la American #[i marketing] Association (AMA), "es una función de la organización y un conjunto de procesos para crear, comunicar y entregar valor a los clientes, y para manejar las relaciones con estos últimos, de manera que beneficien a toda la organización [...]” (American #[i marketing] Association, s.f.  como se citó en Iván Thompson, 2006). De esta forma, se entiende que el #[i marketing] da respuesta a muchas necesidades de los consumidores y, a partir de esto, permite generar nuevos mercados, estableciendo ofertas de valor a través de la comunicación, el servicio al cliente y demás conexiones que surgen según el comportamiento del público, y teniendo en cuenta que el enfoque máximo de este son las personas.
     .row.justify-content-center.align-items-center
       .col-10
         img.img-t.img-a.my-5(src='@/assets/ilustraciones/img9.svg', alt='') 
 
-    p A lo largo de la historia, el mercadeo se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el mercadeo como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. De esta manera, tienen lugar importantes sucesos, como las guerras mundiales, luego de los cuales se genera un increíble desarrollo de los medios publicitarios, seguido de la creación del computador y la adaptación de nuevos sistemas de marketing, de acuerdo con los nuevos tiempos y las necesidades que surgen con estos (SENA, 1989).
+    p A lo largo de la historia, el mercadeo se desenvolvió en diferentes fases que marcaron una ruta para su desarrollo, iniciando con los primeros tiempos de la humanidad, en la etapa de la autosuficiencia económica, donde no existía el mercadeo como tal. Se da a continuación una etapa de trueque, donde se empieza a vislumbrar el paso a seguir para los mercados locales, en un primer acercamiento a la comercialización. Seguido de esto, aparece la moneda, que agiliza diversos procesos; lo que da paso a la etapa de la Revolución Industrial y, a su vez, a la producción en masa. De esta manera, tienen lugar importantes sucesos, como las guerras mundiales, luego de los cuales se genera un increíble desarrollo de los medios publicitarios, seguido de la creación del computador y la adaptación de nuevos sistemas de #[i marketing], de acuerdo con los nuevos tiempos y las necesidades que surgen con estos (SENA, 1989).
 
-    .p A partir del gran avance que ha tenido la tecnología y el importante impacto generado, surge el marketing digital como uno de los tipos de marketing, y comienza a aplicarse desde los años 90, con la gran diferencia de desarrollarse en el entorno digital, utilizando todo tipo de herramientas y plataformas que este provee. Según Cibrián (2018), el gran plus que posee este es la capacidad de medir todo lo que sea necesario, además de generar mayor trascendencia y alcance. Aquí es donde se determina el gran poder que posee la información, sobre todo en un mercado tan competitivo como el que se vive en la actualidad.
+    .p A partir del gran avance que ha tenido la tecnología y el importante impacto generado, surge el #[i marketing] digital como uno de los tipos de #[i marketing], y comienza a aplicarse desde los años 90, con la gran diferencia de desarrollarse en el entorno digital, utilizando todo tipo de herramientas y plataformas que este provee. Según Cibrián (2018), el gran plus que posee este es la capacidad de medir todo lo que sea necesario, además de generar mayor trascendencia y alcance. Aquí es donde se determina el gran poder que posee la información, sobre todo en un mercado tan competitivo como el que se vive en la actualidad.
     
     .hr.my-5
 
     .titulo-segundo#t_2_1.mt-5
-      .h4 2.1 Breve historia del marketing digital 
+      .h4 2.1 Breve historia del #[i marketing] digital 
 
-    p.mt-5 El marketing digital ha tenido una gran evolución a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años. A continuación, se presenta un breve recorrido por su historia, desde la perspectiva de Xie (2019). 
-    .h6.mt-5 Historia del marketing
+    p.mt-5 El #[i marketing] digital ha tenido una gran evolución a medida que han evolucionado los medios de comunicación a lo largo de los últimos 40 años. A continuación, se presenta un breve recorrido por su historia, desde la perspectiva de Xie (2019). 
+    .h6.mt-5 Historia del #[i marketing]
     .row.justify-content-center.align-items-center
       .col-10
         LineaTiempoB.color-secundario.mt-5(:datos="datosLineaTiempoB")
-    p.mt-4.text-center Nota. Adaptada de Xie (2019). #[i Marketing digital: Navegando en aguas digitales, sumérgete conmigo.] 
+    p.mt-4.text-center Nota. Adaptada de Xie (2019). #[i marketing] digital: Navegando en aguas digitales, sumérgete conmigo.] 
     
     .hr.my-5
     
     .titulo-segundo#t_2_2.mt-5
-      .h4 2.2 Las 4C del marketing digital 
-    p.mt-5 También conocidas como el marketing mix, donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: Consumidor, Costo, Conveniencia y Comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del mercadeo tradicional de 4P (Producto, Precio, Plaza y Promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
+      .h4 2.2 Las 4C del #[i marketing] digital 
+    p.mt-5 También conocidas como el #[i marketing] mix, donde se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia: Consumidor, Costo, Conveniencia y Comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar al entorno digital el modelo del mercadeo tradicional de 4P (Producto, Precio, Plaza y Promoción), sin perder su esencia (Xie, 2019). En el siguiente gráfico, se aprecian las definiciones.
 
 
     ImagenInfografica.color-secundario.mt-5
@@ -42,7 +42,7 @@
           img.img-a.img-t(src='@/assets/ilustraciones/img16.svg', alt='Texto que describa la imagen')
 
       .tarjeta.btn-color-1.p-4(x="35%" y="25%")
-        p Todas las estrategias para promocionar y vender un producto se basan en los gustos, deseos y necesidades de los consumidores; por ello, el marketing digital está tan enfocado en conocer y analizar su público través de diversas técnicas para lograr efectividad en sus procesos.
+        p Todas las estrategias para promocionar y vender un producto se basan en los gustos, deseos y necesidades de los consumidores; por ello, el #[i marketing] digital está tan enfocado en conocer y analizar su público través de diversas técnicas para lograr efectividad en sus procesos.
 
       .tarjeta.btn-color-2.p-4(x="65%" y="25%")
         p Este se entiende como el precio a pagar por un bien o servicio, el cual puede depender de distintos factores, como la producción, la calidad o el poder adquisitivo del público objetivo. Esta información será usada por el consumidor para decidir si adquiere o no dicho elemento.
@@ -52,11 +52,11 @@
   
 
       .tarjeta.btn-color-4.p-4(x="65%" y="75%")
-        p Los procesos comunicativos dentro del marketing digital juegan un papel muy importante. Estos pueden definir la personalidad, interacción y conexión de la marca con su público. Además, permiten realizar una entrega de información coherente que logre una capitalización del tiempo invertido en lograr estos lazos de unión.             
+        p Los procesos comunicativos dentro del #[i marketing] digital juegan un papel muy importante. Estos pueden definir la personalidad, interacción y conexión de la marca con su público. Además, permiten realizar una entrega de información coherente que logre una capitalización del tiempo invertido en lograr estos lazos de unión.             
     .hr.mt-5
     .titulo-segundo#t_2_3.mt-5
-      .h4 2.3 Herramientas del marketing digital
-    p.mt-5 Dentro del marketing digital, es posible identificar las principales herramientas para llevar a cabo las estrategias que se propongan para el posicionamiento de una empresa o marca. Es de destacar que estas se mantienen en constante evolución y es viable encontrar otras que faciliten los objetivos a alcanzar.
+      .h4 2.3 Herramientas del #[i marketing] digital
+    p.mt-5 Dentro del #[i marketing] digital, es posible identificar las principales herramientas para llevar a cabo las estrategias que se propongan para el posicionamiento de una empresa o marca. Es de destacar que estas se mantienen en constante evolución y es viable encontrar otras que faciliten los objetivos a alcanzar.
 
     .p De acuerdo con De Castro (2019), se podrían identificar las siguientes herramientas:
       
@@ -78,7 +78,7 @@
               img.img-a.img-t(src='@/assets/ilustraciones/img18.svg', alt='Texto que describa la imagen')
 
           .col-md-6
-            .h5 E-mail marketing
+            .h5 E-mail #[i marketing]
             p Se define como una estrategia de comunicaciones que entrega una información puntual de contenido promocional de productos o servicios por medio del correo electrónico. Esto permite fidelizar el público objetivo y permite la captación de nuevos usuarios con la ayuda de bases de datos especializadas.
         
       .py-3.py-md-4(titulo="Social media")
@@ -112,7 +112,7 @@
           .col-md-6
             .h5  Publicidad online
             p Es el pago de publicidad digital por medio de las distintas plataformas que la empresa o marca necesite para potenciar el mensaje con el público que desea alcanzar, lo que se traduce como una buena forma de darse a conocer y captar nuevos usuarios. Esto significa que, además de los contenidos publicitarios orgánicos que generan atención, el pago de pauta digital llega al público deseado a partir de una adecuada segmentación.
-    .p-r.mt-5 #[b Nota.] Adaptado de De Castro, I. (2019). ¿Qué son herramientas de marketing y por qué debo contar con ellas? 
+    .p-r.mt-5 #[b Nota.] Adaptado de De Castro, I. (2019). ¿Qué son herramientas de #[i marketing] y por qué debo contar con ellas? 
 
 </template>
 
@@ -142,7 +142,7 @@ export default {
       {
         titulo: '1973 – 1994 Emerge la era digital',
         texto:
-          'Aparecen las empresas que conocemos hasta el día de hoy. Motorola genera la primera llamada por teléfono móvil, IBM lanza su primer ordenador personal y Apple presenta su Macintosh en un comercial del Superbowl. <br>En este tiempo, se producen importantes avances en la tecnología 2G y se menciona por primera vez el marketing digital, dado que se crea la primera página web y se presenta de forma pública la World Wide Web (www); además, se da a conocer el primer buscador web y se evidencia una combinación de publicidad televisiva en los medios impresos.',
+          'Aparecen las empresas que conocemos hasta el día de hoy. Motorola genera la primera llamada por teléfono móvil, IBM lanza su primer ordenador personal y Apple presenta su Macintosh en un comercial del Superbowl. <br>En este tiempo, se producen importantes avances en la tecnología 2G y se menciona por primera vez el <i>marketing</i> digital, dado que se crea la primera página web y se presenta de forma pública la World Wide Web (www); además, se da a conocer el primer buscador web y se evidencia una combinación de publicidad televisiva en los medios impresos.',
         icono: require('@/assets/ilustraciones/img13.svg'),
       },
       {

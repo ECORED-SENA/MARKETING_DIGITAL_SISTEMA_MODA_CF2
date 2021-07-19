@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 5
-      .h3 Social media
+      .h3.text-in Social media
 
     img.img-t.img-a(src='@/assets/ilustraciones/img34.svg', alt='')           
 
@@ -182,7 +182,7 @@
                 |Juegos en línea
   
 
-    .p-r.mt-5 #[b Nota.] Adaptada de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+    .p-r.mt-5 #[b Nota.] Adaptada de Xie (2019). #[i marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
     
     .hr.my-5
 
@@ -200,7 +200,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-10    
         img.img-a.img-t(src='@/assets/ilustraciones/img40.svg', alt='')
-        .p-r.mt-3 #[b Nota.] Adaptada de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. 
+        .p-r.mt-3 #[b Nota.] Adaptada de Xie (2019). #[i marketing] digital: Navegando en aguas digitales, sumérgete conmigo. 
         .p Entre las redes sociales más populares, se encuentran Facebook, Instagram, Twitter, Youtube, Tik Tok, Linkedin, Pinterest, entre otras.
     
     .hr.my-5
@@ -336,7 +336,7 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Ley 23 de 1982")
             p Ley de derechos de autor.  Para más información, explore el siguiente enlace: 
-              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S
+              a.link(href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S" target="_blank") https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431&dt=S
 
           div(titulo="Decisión Andina 351 de 1993")
             p Cuya finalidad es reconocer una adecuada y efectiva protección a los autores y demás titulares de derechos, sobre las obras del ingenio, en el campo literario, artístico o científico, cualquiera que sea el género o forma de expresión y sin importar el mérito literario o artístico ni su destino. Para más información, explore el siguiente enlace: 
@@ -345,11 +345,11 @@
 
           div(titulo="Ley 241 del 2011")
             p Por la cual se regula la responsabilidad por las infracciones de derecho de autor y derechos conexos en Internet. Para más información explore el siguiente enlace: 
-              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/ 
+              a.link(href="http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/" target="_blank") http://www.informatica-juridica.com/proyecto-de-ley/proyecto-ley-241-derecho-autor-los-derechos-conexos-internet/ 
 
           div(titulo="Ley 1834 del 2017")
             p Por la cual se fomenta la economía creativa (ley naranja). Para más información, explore el siguiente enlace: 
-              a.link(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank") http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647            
+              a.link(href="http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647" target="_blank") http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30030647            
 
 
           div(titulo="Ley 1915 del 2018")

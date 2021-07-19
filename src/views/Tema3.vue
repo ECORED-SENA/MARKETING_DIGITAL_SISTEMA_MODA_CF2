@@ -6,8 +6,8 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      .h3 Diferencia entre SEO y SEM. ¿Cómo definir su uso? 
-    p Para entender el significado de Search Engine Optimization (SEO) y Search Engine Marketing (SEM), es importante conocer que, al momento de consultar acerca de un tema en específico, es normal dirigirse a Google y en la barra principal digitar la palabra clave que uno cree lo puede llevar al sitio web de su interés. Este elemento, que se usa con total normalidad, detona un mecanismo dentro de Google denominado “motor de búsqueda”, el cual recopila la información existente en los sitios web y dirige hacia los distintos lugares donde se cree es posible encontrar todo lo que se necesita, teniendo en cuenta la palabra clave.
+      .h3.text-in Diferencia entre SEO y SEM. ¿Cómo definir su uso? 
+    p Para entender el significado de Search Engine Optimization (SEO) y Search Engine #[i marketing] (SEM), es importante conocer que, al momento de consultar acerca de un tema en específico, es normal dirigirse a Google y en la barra principal digitar la palabra clave que uno cree lo puede llevar al sitio web de su interés. Este elemento, que se usa con total normalidad, detona un mecanismo dentro de Google denominado “motor de búsqueda”, el cual recopila la información existente en los sitios web y dirige hacia los distintos lugares donde se cree es posible encontrar todo lo que se necesita, teniendo en cuenta la palabra clave.
     .row.justify-content-center.align-items-center.mt-5
       .col-8
         .tarjeta--container.row

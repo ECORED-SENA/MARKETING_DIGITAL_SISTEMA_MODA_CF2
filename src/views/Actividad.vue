@@ -10,8 +10,8 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          .h4 Actividad didáctica: ¿Cuál es el complemento del otro? 
-        p.mb-4 Asociar conceptos relacionados con marketing digital para la definición de acciones a ejecutar por parte del aprendiz en su vida laboral.
+          .h4.text-in Actividad didáctica: ¿Cuál es el complemento del otro? 
+        p.mb-4 Asociar conceptos relacionados con #[i marketing] digital para la definición de acciones a ejecutar por parte del aprendiz en su vida laboral.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

@@ -5,7 +5,7 @@
 
     .titulo-principal
       .titulo-principal__numero
-        span 4
+        span.text-in 4
       .h3 Estrategia digital
     p De acuerdo con el portal web Walter Giu, una estrategia digital se define como “Una combinación de procesos que apuntan a identificar y aprovechar oportunidades digitales para mejorar las ventajas competitivas” (Giu, 2018); en otras palabras, es el conjunto y manejo de herramientas que se identifican para posicionar una empresa en la web.
 
@@ -108,15 +108,15 @@
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/U2juCftBrTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+    .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). #[i marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
     
     .hr.my-5
 
     .titulo-segundo#t_4_2.mt-5
-      .h4 4.2 Plan de marketing digital  
-    p.mt-5 El plan de marketing digital se puede definir como el plan de ruta para la consecución de una meta determinada, lo que permite un enfoque más preciso en la centralización de todos los esfuerzos por un único objetivo y fomenta la creatividad en la búsqueda de los mejores mecanismos para su desarrollo.
+      .h4 4.2 Plan de #[i marketing] digital  
+    p.mt-5 El plan de #[i marketing] digital se puede definir como el plan de ruta para la consecución de una meta determinada, lo que permite un enfoque más preciso en la centralización de todos los esfuerzos por un único objetivo y fomenta la creatividad en la búsqueda de los mejores mecanismos para su desarrollo.
 
-    .p Según Xie (2019), se definen los siguientes pasos para un plan de marketing digital:
+    .p Según Xie (2019), se definen los siguientes pasos para un plan de #[i marketing] digital:
     .row.justify-content-center.align-items-center.mt-5
       .col-10
         PasosA.color-acento-contenido(tipo="n")
@@ -140,7 +140,7 @@
             p Conocer la competencia, a través de una serie de técnicas de mercadotecnia, permitirá situarnos en un contexto aterrizado.
 
           div
-            h3 Establecer objetivos del marketing
+            h3 Establecer objetivos del #[i marketing]
             p Definir los objetivos específicos que se espera lograr de determinada campaña. 
 
           div
@@ -152,10 +152,10 @@
             p Poner en marcha las actividades propuestas en el plan. 
 
           div
-            h3 Seguimiento del plan de marketing
+            h3 Seguimiento del plan de #[i marketing]
             p Constantemente, se deben revisar las actividades desarrolladas para que concuerden con los objetivos propuestos, identificar si se alejan o siguen el camino propuesto, con el fin de ajustar o mejorar.                                                                         
 
-        .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo.
+        .p-r.mt-3 #[b Nota.] Adaptado de Xie (2019). #[i marketing] digital: Navegando en aguas digitales, sumérgete conmigo.
 </template>
 
 <script>
