@@ -204,8 +204,6 @@ export default {
     {
       referencia:
         'De Castro, I. (Septiembre 30 de 2019). ¿Qué son herramientas de marketing y por qué debo contar con ellas? Innovacode - Resolución de problemas. ',
-      link:
-        'https://www.innovacode.com.do/marketing/herramientas-de-marketing/#:%7E:text=Son%20las%20herramientas%20de%20marketing,variada%20de%20posibilidades%20de%20implementaci%C3%B3n.',
     },
     {
       referencia:
@@ -309,7 +307,8 @@ export default {
     {
       referencia:
         'Xie, Y. M. S. (2019). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=9100',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
     },
   ],
   glosario: [
